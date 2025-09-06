@@ -1,0 +1,27 @@
+p { 
+    color:crimson;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #ff90f5;
+    background-color: #08c;
+    margin: 20px;
+    border: 2px solid #ff90f5;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+h3 {
+    color:darkmagenta;
+    font-size: 25px;
+}
+
+:link {
+    color: darkmagenta;
+}
+
+
+
